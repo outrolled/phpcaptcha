@@ -23,7 +23,7 @@ $text = base64_decode($_REQUEST['hash']);
 // $text = $_REQUEST['hash'];
 
 // Replace path by your own font path
-$font = getcwd() . '/fonts/pixelate.ttf';
+$font = getcwd() . '/fonts/pixelation.ttf';
 
 // define text parameters
 $fontsize = 21;
